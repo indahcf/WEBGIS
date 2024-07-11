@@ -14,7 +14,7 @@
             echo '</div>';
         }
         ?>
-        <table class="table table-responsive table-bordered">
+        <table class="table table-bordered" width="100%">
             <thead>
                 <tr>
                     <th>No</th>

@@ -16,13 +16,10 @@
         //map view
         console.log(location.coords.latitude, location.coords.longitude);
 
-        var map = L.map('map').setView([-7.423843, 109.243012], 14);
+        var map = L.map('map').setView([-7.4224768, 109.233094], 14); // Adjusted initial view
 
-        var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-
-            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
-                'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-            id: 'mapbox/streets-v11',
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
         <?php foreach ($sekolah as $key => $value) { ?>
@@ -36,5 +33,12 @@
                     "<a href='https://www.google.com/maps/dir/?api=1&origin=" +
                     location.coords.latitude + "," + location.coords.longitude + "&destination=<?= $value->latitude ?>,<?= $value->longitude ?>' class='btn btn-sm btn-default' target='_blank'>Rute</a>");
         <?php } ?>
+
+        // Add location control
+        L.control.locate({
+            strings: {
+                title: "Show me where I am, yo!"
+            }
+        }).addTo(map);
     });
 </script>

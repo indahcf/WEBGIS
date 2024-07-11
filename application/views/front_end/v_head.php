@@ -13,24 +13,41 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="Green Wheels Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-    <script type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <script type="application/x-javascript">
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
     <link href="<?= base_url() ?>front_end/css/bootstrap.css" rel='stylesheet' type='text/css' />
     <link href="<?= base_url() ?>front_end/css/style.css" rel='stylesheet' type='text/css' />
     <link href="<?= base_url() ?>front_end/css/font-awesome.css" rel="stylesheet">
     <!-- Custom Theme files -->
+    <link href="<?= base_url() ?>front_end/css/animate.css" rel="stylesheet" type="text/css" media="all">
     <script src="<?= base_url() ?>front_end/js/jquery-1.12.0.min.js"></script>
     <script src="<?= base_url() ?>front_end/js/bootstrap.min.js"></script>
-    <!--animate-->
-    <link href="<?= base_url() ?>front_end/css/animate.css" rel="stylesheet" type="text/css" media="all">
     <script src="<?= base_url() ?>front_end/js/wow.min.js"></script>
     <script>
         new WOW().init();
     </script>
-    <!--//end-animate-->
+    <!-- Leaflet -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" /> -->
+    <!-- <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script> -->
+    <!-- <link rel="stylesheet" href="<?= base_url() ?>leaflet-locatecontrol/dist/L.Control.Locate.min.css" /> -->
+    <!-- <script src="<?= base_url() ?>leaflet-locatecontrol/src/L.Control.Locate.js"></script> -->
 
-    <!--//leaflet-->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-    <link rel="stylesheet" href="<?= base_url() ?>leaflet-locatecontrol/dist/L.Control.Locate.min.css" />
-    <script src="<?= base_url() ?>leaflet-locatecontrol/src/L.Control.Locate.js"></script>
+    <link rel="stylesheet" href="<?= base_url() ?>leaflet/leaflet.css" />
+    <script src="<?= base_url() ?>leaflet/leaflet.js"></script>
 </head>
+
+<body>
+    <div id="sample"></div>
+
+    <!-- Your other HTML content goes here -->
+
+</body>
+
+</html>

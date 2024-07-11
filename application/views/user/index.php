@@ -16,11 +16,11 @@
         }
         ?>
 
-        <table class="table table-responsive table-bordered">
+        <table class="table table-bordered" width="100%">
             <thead>
                 <tr>
                     <th>No</th>
-                    <th style="min-width:200px;">Nama User</th>
+                    <th>Nama User</th>
                     <th>Email</th>
                     <th>Action</th>
                 </tr>
