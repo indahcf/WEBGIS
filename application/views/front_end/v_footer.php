@@ -1,11 +1,7 @@
-<!---copy-right ---->
-<div class="copy-right">
-    <div class="container">
+<footer id="footer" class="footer position-relative light-background">
 
-        <p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">Copyright &copy; Indah Cahya Febriani <?= date('Y') ?></p>
+    <div class="container copyright text-center mt-4">
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">Indah Cahya Febriani</strong><span><?= date('Y'); ?> All Rights Reserved</span></p>
     </div>
-</div>
-<!--- /copy-right ---->
-</body>
 
-</html>
+</footer>

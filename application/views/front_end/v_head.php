@@ -1,52 +1,59 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-    <title><?= $title; ?></title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content="Green Wheels Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-    <script type="application/x-javascript">
-        addEventListener("load", function() {
-            setTimeout(hideURLbar, 0);
-        }, false);
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Index - QuickStart Bootstrap Template</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
 
-        function hideURLbar() {
-            window.scrollTo(0, 1);
-        }
-    </script>
-    <link href="<?= base_url() ?>front_end/css/bootstrap.css" rel='stylesheet' type='text/css' />
-    <link href="<?= base_url() ?>front_end/css/style.css" rel='stylesheet' type='text/css' />
-    <link href="<?= base_url() ?>front_end/css/font-awesome.css" rel="stylesheet">
-    <!-- Custom Theme files -->
-    <link href="<?= base_url() ?>front_end/css/animate.css" rel="stylesheet" type="text/css" media="all">
-    <script src="<?= base_url() ?>front_end/js/jquery-1.12.0.min.js"></script>
-    <script src="<?= base_url() ?>front_end/js/bootstrap.min.js"></script>
-    <script src="<?= base_url() ?>front_end/js/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-    <!-- Leaflet -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" /> -->
-    <!-- <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script> -->
-    <!-- <link rel="stylesheet" href="<?= base_url() ?>leaflet-locatecontrol/dist/L.Control.Locate.min.css" /> -->
-    <!-- <script src="<?= base_url() ?>leaflet-locatecontrol/src/L.Control.Locate.js"></script> -->
+    <!-- Favicons -->
+    <!-- <link href="<?= base_url() ?>front_end/css/bootstrap.css" rel='stylesheet' type='text/css' /> -->
+    <link href="<?= base_url() ?>front_end/assets/img/favicon.png" rel="icon">
+    <link href="<?= base_url() ?>front_end/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="<?= base_url() ?>front_end/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= base_url() ?>front_end/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="<?= base_url() ?>front_end/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="<?= base_url() ?>front_end/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="<?= base_url() ?>front_end/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Main CSS File -->
+    <link href="<?= base_url() ?>front_end/assets/css/main.css" rel="stylesheet">
 
     <link rel="stylesheet" href="<?= base_url() ?>leaflet/leaflet.css" />
     <script src="<?= base_url() ?>leaflet/leaflet.js"></script>
+
+    <!-- =======================================================
+  * Template Name: QuickStart
+  * Template URL: https://bootstrapmade.com/quickstart-bootstrap-startup-website-template/
+  * Updated: Jun 29 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
 
 <body>
-    <div id="sample"></div>
+    <main class="main">
 
-    <!-- Your other HTML content goes here -->
+    </main>
+
+    <!-- Vendor JS Files -->
+    <script src="<?= base_url() ?>front_end/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/php-email-form/validate.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/aos/aos.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+    <!-- Main JS File -->
+    <script src="<?= base_url() ?>front_end/assets/js/main.js"></script>
 
 </body>
 
