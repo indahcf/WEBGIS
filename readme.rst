@@ -54,3 +54,18 @@ The Exam Information and Monitoring System can be access here: http://103.163.16
 - Password : adminsimonji
 
 ## Website Features
+
+![Screenshot (1034)](https://github.com/user-attachments/assets/f07bfc18-19db-47f6-b4e3-d7ed782ecbef)
+![Screenshot (1035)](https://github.com/user-attachments/assets/d3c52414-5495-48ff-ac1f-b07b694da419)
+![Screenshot (1036)](https://github.com/user-attachments/assets/f199e115-b0a5-474a-835c-62cffe3aa39d)
+![Screenshot (1038)](https://github.com/user-attachments/assets/34013d5c-82f1-4d0e-93b2-8e219a2f0d46)
+![Screenshot (1039)](https://github.com/user-attachments/assets/359fcba3-b725-4d51-89c6-f7ed9d38b8e6)
+![Screenshot (1040)](https://github.com/user-attachments/assets/b729b498-f266-41a6-9a0c-7faa0d247017)
+![Screenshot (1041)](https://github.com/user-attachments/assets/44f0daa2-f61f-4aa7-9549-e3694e146c52)
+![Screenshot (1042)](https://github.com/user-attachments/assets/334c9303-49b1-4891-a303-57a241ef5634)
+![Screenshot (1043)](https://github.com/user-attachments/assets/973c5e93-036f-4044-a1d2-164331380bb4)
+![Screenshot (1044)](https://github.com/user-attachments/assets/0234c58c-135f-4c32-bb6e-edcc9d068de9)
+![Screenshot (1045)](https://github.com/user-attachments/assets/0188e77c-1cb9-4403-b66c-76bf44e0ce8b)
+![Screenshot (1046)](https://github.com/user-attachments/assets/8beb85ec-9583-4fcc-8e08-5a022bc06fd3)
+![Screenshot (1047)](https://github.com/user-attachments/assets/3f40c03c-daba-4fb3-b310-cc79773f55ae)
+
