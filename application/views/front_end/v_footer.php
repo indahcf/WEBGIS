@@ -4,4 +4,19 @@
         <p>© <span>Copyright</span> <strong class="px-1 sitename">Indah Cahya Febriani</strong><span><?= date('Y'); ?> All Rights Reserved</span></p>
     </div>
 
+    <!-- Vendor JS Files -->
+    <script src="<?= base_url() ?>front_end/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/php-email-form/validate.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/aos/aos.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="<?= base_url() ?>front_end/assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+    <!-- Main JS File -->
+    <script src="<?= base_url() ?>front_end/assets/js/main.js"></script>
+
+    <!-- DataTables -->
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+    </body>
+
+    </html>
 </footer>

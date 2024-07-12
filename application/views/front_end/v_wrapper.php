@@ -5,4 +5,4 @@ require_once('v_nav.php');
 require_once('v_content.php');
 require_once('v_footer.php');
 
-var_dump($isi);
+// var_dump($isi);

@@ -894,7 +894,6 @@ section,
 
 .hero p {
   color: color-mix(in srgb, var(--default-color), transparent 30%);
-  margin: 5px 0 30px 0;
   font-size: 20px;
   font-weight: 400;
 }
@@ -958,7 +957,6 @@ section,
   .hero p {
     font-size: 18px;
     line-height: 24px;
-    margin-bottom: 30px;
   }
 
   .hero .btn-get-started,
