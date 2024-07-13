@@ -1,6 +1,6 @@
-# webgis
+# Web Based Geographic Information System for School Mapping in Purwokerto
 
-## What is a Website Based Exam Information and Monitoring System?
+## What is a Web Based Geographic Information System for School Mapping in Purwokerto?
 
 Website Based Exam Monitoring and Information System is an information system that aims to simplify the exam monitoring process at the Faculty of Engineering, Universitas Jenderal Soedirman.
 
@@ -8,7 +8,7 @@ Website Based Exam Monitoring and Information System is an information system th
 
 Website Based Examination Information and Monitoring System is suitable for use by Admins, Lecturers, Quality Control Groups, Question Printers, Coordinators, Supervisors, Committee Chairperson, and Exam Result Distributors at the Faculty of Engineering, Universitas Jenderal Soedirman to facilitate the process of preparing schedules, collecting exam questions, reviewing exam questions, printing exam questions, recapitulating the attendance of participants and exam supervisors, and recapitulating the distribution of exam results.
 
-## Who are the users of the Website Based Exam Information and Monitoring System
+## Who are the users of the Web Based Geographic Information System for School Mapping in Purwokerto?
 
 - Admin: Admin is a system user who has access rights to all menu in the system.
   
@@ -44,13 +44,17 @@ Here are the tools we used to build the application:
 - GitHub: A shared web hosting service for software development projects that uses the Git version control system and internet hosting services.
 - XAMPP: A local server building tool that helps with project development (Apache Server, MySQL Database, and PHP and Perl language interpreters).
 
-## Website Access
-
-The Exam Information and Monitoring System can be access here: http://103.163.161.18:7979
-
 ## User Credential for Admin
 
-- Email : subekti@unsoed.ac.id
+- Email : admin@gmail.com
 - Password : adminsimonji
 
 ## Website Features
+
+1. Landing Page 
+
+   ![Screenshot (1034)](https://github.com/user-attachments/assets/f07bfc18-19db-47f6-b4e3-d7ed782ecbef)
+
+   ![Screenshot (1035)](https://github.com/user-attachments/assets/d3c52414-5495-48ff-ac1f-b07b694da419)
+
+   ![Screenshot (1036)](https://github.com/user-attachments/assets/f199e115-b0a5-474a-835c-62cffe3aa39d)
