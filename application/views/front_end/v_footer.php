@@ -4,6 +4,12 @@
         <p>© <span>Copyright</span> <strong class="px-1 sitename">Indah Cahya Febriani</strong><span><?= date('Y'); ?> All Rights Reserved</span></p>
     </div>
 
+    <!-- Scroll Top -->
+    <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
     <!-- Vendor JS Files -->
     <script src="<?= base_url() ?>front_end/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="<?= base_url() ?>front_end/assets/vendor/php-email-form/validate.js"></script>
