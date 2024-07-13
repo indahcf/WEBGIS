@@ -1,14 +1,14 @@
-# Website Based Geographic Information System for School Mapping in Purwokerto
+# Web GIS for School Mapping
 
-## What is a Website Based Geographic Information System for School Mapping in Purwokerto?
+## What is a WebGIS for School Mapping?
 
-Website Based Geographic Information System for School Mapping in Purwokerto is an online platform designed to present geospatial data related to the location and information of schools in Purwokerto area. The system allows users to view an interactive map that displays school locations, as well as various related information such as school status, photos, and other relevant data.
+WebGIS for School Mapping is an online platform designed to present geospatial data related to the location and information of schools in Purwokerto area. The system allows users to view an interactive map that displays school locations, as well as various related information such as school status, photos, and other relevant data.
 
 ## For whom?
 
-Website Based Geographic Information System of School Mapping in Purwokerto can be used by various parties to improve the quality of education, accelerate access to information, and support more effective and efficient planning.
+Web GIS for School Mapping can be used by various parties to improve the quality of education, accelerate access to information, and support more effective and efficient planning.
 
-## Who are the users of the Website Based Geographic Information System for School Mapping in Purwokerto?
+## Who are the users of the Web GIS for School Mapping?
 
 - Admin: Admin can manage users and school data.
   
@@ -41,7 +41,7 @@ Here are the tools we used to build the application:
 
 1. Landing Page
 
-	 ![Screenshot (1034)](https://github.com/user-attachments/assets/f07bfc18-19db-47f6-b4e3-d7ed782ecbef)
+   ![Screenshot (1034)](https://github.com/user-attachments/assets/f07bfc18-19db-47f6-b4e3-d7ed782ecbef)
 
    ![Screenshot (1035)](https://github.com/user-attachments/assets/d3c52414-5495-48ff-ac1f-b07b694da419)
 
@@ -49,21 +49,21 @@ Here are the tools we used to build the application:
 
 2. School Detail
 
-	 ![Screenshot (1038)](https://github.com/user-attachments/assets/34013d5c-82f1-4d0e-93b2-8e219a2f0d46)
+   ![Screenshot (1038)](https://github.com/user-attachments/assets/34013d5c-82f1-4d0e-93b2-8e219a2f0d46)
 
    ![Screenshot (1039)](https://github.com/user-attachments/assets/359fcba3-b725-4d51-89c6-f7ed9d38b8e6)
 
 3. Login Page
 
-	 ![Screenshot (1040)](https://github.com/user-attachments/assets/b729b498-f266-41a6-9a0c-7faa0d247017)
+   ![Screenshot (1040)](https://github.com/user-attachments/assets/b729b498-f266-41a6-9a0c-7faa0d247017)
 
 4. Dashboard Admin
 
-	 ![Screenshot (1041)](https://github.com/user-attachments/assets/44f0daa2-f61f-4aa7-9549-e3694e146c52)
+   ![Screenshot (1041)](https://github.com/user-attachments/assets/44f0daa2-f61f-4aa7-9549-e3694e146c52)
 
 5. User CRUD
 
-	 ![Screenshot (1042)](https://github.com/user-attachments/assets/334c9303-49b1-4891-a303-57a241ef5634)
+   ![Screenshot (1042)](https://github.com/user-attachments/assets/334c9303-49b1-4891-a303-57a241ef5634)
 
    ![Screenshot (1043)](https://github.com/user-attachments/assets/973c5e93-036f-4044-a1d2-164331380bb4)
 
@@ -71,7 +71,7 @@ Here are the tools we used to build the application:
 
 6. School CRUD
 
-	 ![Screenshot (1045)](https://github.com/user-attachments/assets/0188e77c-1cb9-4403-b66c-76bf44e0ce8b)
+   ![Screenshot (1045)](https://github.com/user-attachments/assets/0188e77c-1cb9-4403-b66c-76bf44e0ce8b)
 
    ![Screenshot (1046)](https://github.com/user-attachments/assets/8beb85ec-9583-4fcc-8e08-5a022bc06fd3)
 
