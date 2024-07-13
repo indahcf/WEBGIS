@@ -35,7 +35,7 @@ Here are the tools we used to build the application:
 ## User Credential for Admin
 
 - Email: admin@gmail.com
-- Password: adminultra
+- Password: admin
 
 ## Website Features
 
